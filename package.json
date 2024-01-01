@@ -2,7 +2,7 @@
   "name": "@OzarkOC/developer-starter",
   "version": "0.0.0",
   "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "homepage": "https://github.com/OzarkOC/starter-develop#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OzarkOC/starter-develop.git"
+    "url": "https://github.com/OzarkOC/starter-develop.git"
   },
   "bugs": {
     "url": "https://github.com/OzarkOC/starter-develop.git/issues"
