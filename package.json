@@ -1,7 +1,7 @@
 {
-  "name": "@OzarkOC/developer-starter",
-  "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
+  "name": "@skilledcraftsmen/developer-demo",
+  "version": "1.0.0",
+  "description": "Ozark OC Paacakge for Skilled Craftsmen",
   "homepage": "https://github.com/OzarkOC/starter-develop#readme",
   "license": "ISC",
   "keywords": [],
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OzarkOC/starter-develop.git"
+    "url": "git+https://github.com/OzarkOC/starter-develop.git"
   },
   "bugs": {
-    "url": "https://github.com/OzarkOC/starter-develop.git/issues"
+    "url": "https://github.com/OzarkOC/starter-develop/issues"
   },
   "type": "module",
   "main": "src/index.ts",
