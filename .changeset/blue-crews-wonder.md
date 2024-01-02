@@ -1,5 +1,0 @@
----
-'@skilledcraftsmen/developer-demo': patch
----
-
-Fixed NPM home
