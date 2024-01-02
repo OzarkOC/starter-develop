@@ -1,5 +1,5 @@
 ---
-'@finsweet/developer-starter': minor
+'@skilledcraftsmen/developer-demo': minor
 ---
 
 Changed name string
