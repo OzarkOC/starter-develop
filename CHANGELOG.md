@@ -1,5 +1,11 @@
 # @skilledcraftsmen/developer-demo
 
+## 1.1.1
+
+### Patch Changes
+
+- 2e3318b: craeting new change set
+
 ## 1.1.0
 
 ### Minor Changes
