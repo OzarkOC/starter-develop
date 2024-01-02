@@ -2,4 +2,4 @@
 '@skilledcraftsmen/developer-demo': patch
 ---
 
-Fixed NPM home
+fixed .md file in chngeset
