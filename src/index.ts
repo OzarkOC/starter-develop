@@ -1,7 +1,8 @@
-import { greetUser } from '$utils/greet';
+import { booklearn } from './utils/book';
+import { DynamicTOC } from './utils/DynamicTOC';
 
 window.Webflow ||= [];
 window.Webflow.push(() => {
-  const name = 'Anika D Parham';
-  greetUser(name);
+  DynamicTOC();
+  booklearn();
 });

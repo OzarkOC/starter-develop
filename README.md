@@ -1,4 +1,4 @@
-# Finsweet Developer Starter
+## Ozark OC Develop Demo
 
 A starter template for both Client & Power projects.
 
